@@ -1,0 +1,4 @@
+C:\Users\Hunter\Desktop\Daily Programmer Challenges\Easy Challenges\Daily Programmer Easy Challenge 214\Daily Programmer Easy Challenge 214\bin\Debug\Daily Programmer Easy Challenge 214.exe
+C:\Users\Hunter\Desktop\Daily Programmer Challenges\Easy Challenges\Daily Programmer Easy Challenge 214\Daily Programmer Easy Challenge 214\bin\Debug\Daily Programmer Easy Challenge 214.pdb
+C:\Users\Hunter\Desktop\Daily Programmer Challenges\Easy Challenges\Daily Programmer Easy Challenge 214\Daily Programmer Easy Challenge 214\obj\x86\Debug\Daily Programmer Easy Challenge 214.exe
+C:\Users\Hunter\Desktop\Daily Programmer Challenges\Easy Challenges\Daily Programmer Easy Challenge 214\Daily Programmer Easy Challenge 214\obj\x86\Debug\Daily Programmer Easy Challenge 214.pdb

@@ -1,0 +1,4 @@
+C:\Users\Hunter\Desktop\Daily Programmer Challenges\Hard Challenges\Hard Challenge 215\Hard Challenge 215\bin\Debug\Hard Challenge 215.exe
+C:\Users\Hunter\Desktop\Daily Programmer Challenges\Hard Challenges\Hard Challenge 215\Hard Challenge 215\bin\Debug\Hard Challenge 215.pdb
+C:\Users\Hunter\Desktop\Daily Programmer Challenges\Hard Challenges\Hard Challenge 215\Hard Challenge 215\obj\x86\Debug\Hard Challenge 215.exe
+C:\Users\Hunter\Desktop\Daily Programmer Challenges\Hard Challenges\Hard Challenge 215\Hard Challenge 215\obj\x86\Debug\Hard Challenge 215.pdb
