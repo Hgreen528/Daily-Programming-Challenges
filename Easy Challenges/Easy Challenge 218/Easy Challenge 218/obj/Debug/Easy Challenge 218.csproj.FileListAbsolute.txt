@@ -1,0 +1,6 @@
+F:\Daily Programmer Challenges\Easy Challenges\Easy Challenge 218\Easy Challenge 218\bin\Debug\Easy Challenge 218.exe.config
+F:\Daily Programmer Challenges\Easy Challenges\Easy Challenge 218\Easy Challenge 218\bin\Debug\Easy Challenge 218.exe
+F:\Daily Programmer Challenges\Easy Challenges\Easy Challenge 218\Easy Challenge 218\bin\Debug\Easy Challenge 218.pdb
+F:\Daily Programmer Challenges\Easy Challenges\Easy Challenge 218\Easy Challenge 218\obj\Debug\Easy Challenge 218.csprojResolveAssemblyReference.cache
+F:\Daily Programmer Challenges\Easy Challenges\Easy Challenge 218\Easy Challenge 218\obj\Debug\Easy Challenge 218.exe
+F:\Daily Programmer Challenges\Easy Challenges\Easy Challenge 218\Easy Challenge 218\obj\Debug\Easy Challenge 218.pdb
